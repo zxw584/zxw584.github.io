@@ -97,7 +97,7 @@
         </div>
     </div>
     <div class="blog-footer">
-      <p>by <a href="http://www.mycodes.net" target="_blank">源码之家</a>.</p>
+      <p>by zxw584</p>
     </div>
     <a href="" class="btt">顶部</a>
     <!-- Js-->
